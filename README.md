@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijazahmadwani&label=Profile%20views&color=0e75b6&style=flat" alt="aijazahmadwani" /> </p>
 
-- 🌱 I’m currently learning **Android Programming**
+- 🌱 I’m currently learning **ASP.NET MVC**
 
 - 💬 About me **Web Developer, code lover and learner. I prefer to keep learning, continue challenging myself, and do interesting things that matter.**
 
