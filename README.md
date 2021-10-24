@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://aijazahmadwani.netlify.app/**
 
-- ⚡ Skills **JS / HTML / CSS / BOOTSTRAP / PYTHON / DJANGO / SQL /  GIT / ANGULAR / ASP.NET WEB API / ASP.NET MVC / JQUERY **
+- ⚡ Skills **JS / HTML / CSS / BOOTSTRAP / PYTHON / DJANGO / SQL /  GIT / ANGULAR / ASP.NET WEB API / ASP.NET MVC / JQUERY**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aijazahmadwani&show_icons=true&locale=en&layout=compact" alt="aijazahmadwani" /></p>
