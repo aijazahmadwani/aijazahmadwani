@@ -7,7 +7,7 @@
 
 - 💬 About me **Web Developer, code lover and learner. I prefer to keep learning, continue challenging myself, and do interesting things.**
 
-- 📫 How to reach me **https://aijazwani.netlify.app/**
+- 📫 How to reach me **https://aijazahmadwani.netlify.app/**
 
 - ⚡ Skills **JS / HTML / CSS / BOOTSTRAP / PYTHON / DJANGO / SQL /  GIT / ANGULAR / ASP.NET WEB API / ASP.NET MVC / JQUERY**
 
